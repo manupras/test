@@ -7,12 +7,17 @@
 
 #ifndef SRC_CSTL_H_
 #define SRC_CSTL_H_
-
 #include <vector>
+using namespace std;
 class test {
 public:
 	vector<int> vNum;
 
+	test(){
+
+	}
+
+	test(int a);
 };
 
 
