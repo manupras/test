@@ -1,0 +1,7 @@
+15:17:53 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+
+15:17:54 Build Finished (took 328ms)
+

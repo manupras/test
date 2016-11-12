@@ -1,0 +1,7 @@
+15:17:54 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+
+15:17:54 Build Finished (took 197ms)
+

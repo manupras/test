@@ -1,0 +1,7 @@
+15:17:54 **** Clean-only build of configuration Release for project cTest ****
+make clean 
+rm -rf  ./src/cTest.o  ./src/cTest.d  cTest.exe
+ 
+
+15:17:55 Build Finished (took 151ms)
+

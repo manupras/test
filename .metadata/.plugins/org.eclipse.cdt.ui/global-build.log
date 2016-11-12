@@ -1,0 +1,116 @@
+15:00:30 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:00:38 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:00:38 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+15:00:38 **** Clean-only build of configuration Debug for project cSocket ****
+make clean 
+rm -rf  ./src/cSocket.o  ./src/cSocket.d  cSocket.exe
+ 
+15:00:48 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:00:48 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+15:00:48 **** Clean-only build of configuration Debug for project cSocket ****
+make clean 
+rm -rf  ./src/cSocket.o  ./src/cSocket.d  cSocket.exe
+ 
+15:00:57 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:00:57 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+15:00:57 **** Clean-only build of configuration Debug for project cSocket ****
+make clean 
+rm -rf  ./src/cSocket.o  ./src/cSocket.d  cSocket.exe
+ 
+15:01:09 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:01:09 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+15:01:09 **** Clean-only build of configuration Debug for project cSocket ****
+make clean 
+rm -rf  ./src/cSocket.o  ./src/cSocket.d  cSocket.exe
+ 
+15:01:10 **** Clean-only build of configuration Debug for project cTemplate ****
+make clean 
+rm -rf  ./src/cTemplate.o  ./src/cTemplate.d  cTemplate.exe
+ 
+15:01:28 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:01:28 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+15:01:29 **** Clean-only build of configuration Debug for project cSocket ****
+make clean 
+rm -rf  ./src/cSocket.o  ./src/cSocket.d  cSocket.exe
+ 
+15:01:29 **** Clean-only build of configuration Debug for project cTemplate ****
+make clean 
+rm -rf  ./src/cTemplate.o  ./src/cTemplate.d  cTemplate.exe
+ 
+15:01:29 **** Clean-only build of configuration Release for project cTest ****
+make clean 
+rm -rf  ./src/cTest.o  ./src/cTest.d  cTest.exe
+ 
+15:01:51 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:01:51 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+15:01:51 **** Clean-only build of configuration Debug for project cSocket ****
+make clean 
+rm -rf  ./src/cSocket.o  ./src/cSocket.d  cSocket.exe
+ 
+15:01:51 **** Clean-only build of configuration Debug for project cTemplate ****
+make clean 
+rm -rf  ./src/cTemplate.o  ./src/cTemplate.d  cTemplate.exe
+ 
+15:01:52 **** Clean-only build of configuration Release for project cTest ****
+make clean 
+rm -rf  ./src/cTest.o  ./src/cTest.d  cTest.exe
+ 
+15:17:53 **** Clean-only build of configuration Debug for project cOpOver ****
+make clean 
+rm -rf  ./src/main.o ./src/test.o  ./src/main.d ./src/test.d  cOpOver.exe
+ 
+15:17:54 **** Clean-only build of configuration Debug for project cPoly ****
+make clean 
+rm -rf  ./src/cPoly.o  ./src/cPoly.d  cPoly.exe
+ 
+15:17:54 **** Clean-only build of configuration Debug for project cSocket ****
+make clean 
+rm -rf  ./src/cSocket.o  ./src/cSocket.d  cSocket.exe
+ 
+15:17:54 **** Clean-only build of configuration Debug for project cTemplate ****
+make clean 
+rm -rf  ./src/cTemplate.o  ./src/cTemplate.d  cTemplate.exe
+ 
+15:17:54 **** Clean-only build of configuration Release for project cTest ****
+make clean 
+rm -rf  ./src/cTest.o  ./src/cTest.d  cTest.exe
+ 

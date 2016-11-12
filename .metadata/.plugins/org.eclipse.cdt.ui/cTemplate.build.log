@@ -1,0 +1,7 @@
+15:17:54 **** Clean-only build of configuration Debug for project cTemplate ****
+make clean 
+rm -rf  ./src/cTemplate.o  ./src/cTemplate.d  cTemplate.exe
+ 
+
+15:17:54 Build Finished (took 233ms)
+

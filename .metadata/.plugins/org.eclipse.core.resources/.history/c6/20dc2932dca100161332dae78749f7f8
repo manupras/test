@@ -1,0 +1,37 @@
+//============================================================================
+// Name        : cOpOver.cpp
+// Author      : Manu
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+class A {
+public:
+	int a;
+};
+
+class B {
+public:
+	int b;
+};
+
+A operator+ (B b) {
+	A a;
+	a.a = a.a + b.b;
+	return a;
+}
+
+int main() {
+	cout << "cOpOver" << endl; // prints cOpOver
+	A a;
+	B b;
+
+	a.a = 10;
+	b.b = 15;
+
+	cout<< a+b << endl;
+	return 0;
+}
