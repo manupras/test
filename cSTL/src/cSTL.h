@@ -13,14 +13,11 @@ class test {
 public:
 	vector<int> vNum;
 
-	test(){
+	test() {
 
 	}
 
 	test(int a);
 };
-
-
-
 
 #endif /* SRC_CSTL_H_ */

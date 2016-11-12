@@ -10,6 +10,3 @@ test::test(int a) {
 	vNum.push_back(a);
 }
 
-
-
-
